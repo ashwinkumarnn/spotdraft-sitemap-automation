@@ -1,6 +1,7 @@
 name: Generate Sitemap
 
 on:
+  workflow_dispatch:  # ← This allows manual triggering
   repository_dispatch:
     types: [webflow_publish]
   schedule:
