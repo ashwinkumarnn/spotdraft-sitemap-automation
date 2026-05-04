@@ -7,20 +7,20 @@ const BASE_URL = "https://www.spotdraft.com";
 
 const headers = {
   Authorization: `Bearer ${TOKEN}`,
-  "accept-version": "1.0.0",
+  "accept-version": "2.0.0",
 };
 
 async function getCollections() {
   const res = await axios.get(
-    `https://api.webflow.com/sites/${SITE_ID}/collections`,
+    `https://api.webflow.com/v2/sites/${SITE_ID}/collections`,
     { headers }
   );
-  return res.data;
+  return res.data.collections;
 }
 
 async function getItems(collectionId) {
   const res = await axios.get(
-    `https://api.webflow.com/collections/${collectionId}/items`,
+    `https://api.webflow.com/v2/collections/${collectionId}/items`,
     { headers }
   );
   return res.data.items;
@@ -52,12 +52,12 @@ async function main() {
   let allUrls = [];
 
   for (const col of collections) {
-    const items = await getItems(col._id);
+    const items = await getItems(col.id);
     for (const item of items) {
-      if (item._archived || item._draft) continue;
+      if (item.isArchived || item.isDraft) continue;
       allUrls.push({
-        loc: `${BASE_URL}/${col.slug}/${item.slug}`,
-        lastmod: toXmlDate(item["updated-on"] || item["created-on"]),
+        loc: `${BASE_URL}/${col.slug}/${item.fieldData?.slug || item.id}`,
+        lastmod: toXmlDate(item.lastUpdated || item.createdOn),
       });
     }
   }
@@ -67,4 +67,7 @@ async function main() {
   console.log(`✅ Sitemap generated with ${allUrls.length} URLs`);
 }
 
-main();
+main().catch(err => {
+  console.error("❌ Error:", err.response?.data || err.message);
+  process.exit(1);
+});
