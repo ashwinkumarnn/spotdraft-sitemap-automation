@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://www.spotdraft.com/blog/legal-tech-implementation-failure</loc>
-    <lastmod>2026-04-28</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/blog/a-complete-guide-to-clm-security-certifications</loc>
@@ -88,6 +88,10 @@
   <url>
     <loc>https://www.spotdraft.com/blog/how-templates-support-negotiation-consistency</loc>
     <lastmod>2026-04-22</lastmod>
+  </url>
+  <url>
+    <loc>https://www.spotdraft.com/blog/how-legal-operations-software-improves-in-house-efficiency</loc>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/blog/common-contract-issues</loc>
@@ -116,6 +120,10 @@
   <url>
     <loc>https://www.spotdraft.com/blog/product-updates-march-2026</loc>
     <lastmod>2026-04-08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.spotdraft.com/blog/ai-assisted-contract-review</loc>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/blog/contract-insights</loc>
@@ -715,23 +723,19 @@
   </url>
   <url>
     <loc>https://www.spotdraft.com/customer-stories/how-eureka-forbes-cut-contract-execution-from-days-to-minutes-with-spotdraft</loc>
-    <lastmod>2026-04-10</lastmod>
-  </url>
-  <url>
-    <loc>https://www.spotdraft.com/customer-stories/from-operational-overload-to-scalable-contracting-pratilipi-spotdraft</loc>
-    <lastmod>2026-02-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/customer-stories/from-blocker-to-business-partner-deepl-people-first-clm-rollout</loc>
-    <lastmod>2026-03-20</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/customer-stories/abnormal-security</loc>
-    <lastmod>2025-11-10</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/customer-stories/odessa</loc>
-    <lastmod>2025-07-24</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/customer-stories/unlimitedgroup</loc>
@@ -739,35 +743,35 @@
   </url>
   <url>
     <loc>https://www.spotdraft.com/customer-stories/wingify</loc>
-    <lastmod>2025-07-14</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/customer-stories/how-chaberton-energy-revamped-contract-processes-with-spotdrafts-user-friendly-clm</loc>
-    <lastmod>2025-06-13</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/customer-stories/lightning-fast-how-doral-renewables-accelerated-contracting-with-spotdraft</loc>
-    <lastmod>2025-06-13</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/customer-stories/how-a-one-person-legal-team-scaled-circularises-contracting-with-spotdraft</loc>
-    <lastmod>2025-06-13</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/customer-stories/how-ipsy-used-spotdraft-to-scale-without-growing-their-legal-team</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/customer-stories/how-gameskraft-increased-contracting-efficiency-by-75-with-spotdraft</loc>
-    <lastmod>2025-05-13</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/customer-stories/how-legal-at-headout-reduced-their-contracting-workload-by-60-with-clickthrough</loc>
-    <lastmod>2025-05-13</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/customer-stories/how-legal-at-a-public-us-university-automated-contract-management</loc>
-    <lastmod>2025-05-13</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/customer-stories/how-spotdraft-enabled-end-to-end-contracting-for-legal-and-business-teams-at-guideline</loc>
@@ -775,7 +779,7 @@
   </url>
   <url>
     <loc>https://www.spotdraft.com/customer-stories/how-sun-mobility-enabled-self-service-across-business-teams-with-spotdraft</loc>
-    <lastmod>2025-05-13</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/customer-stories/how-entertainment-benefits-group-enabled-self-service-contracts-for-business-teams</loc>
@@ -863,7 +867,7 @@
   </url>
   <url>
     <loc>https://www.spotdraft.com/engineering-blog/using-named-entity-recognition-to-extract-legal-information-from-contracts</loc>
-    <lastmod>2021-03-08</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/engineering-blog/css-custom-props-override-angular-styles-like-a-pro</loc>
@@ -1923,7 +1927,7 @@
   </url>
   <url>
     <loc>https://www.spotdraft.com/verifai-articles/how-to-review-change-of-controlmanagement-agreements-a-comprehensive-guide</loc>
-    <lastmod>2024-11-05</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/verifai-articles/how-to-review-settlement-agreements-a-comprehensive-guide</loc>
@@ -2779,7 +2783,7 @@
   </url>
   <url>
     <loc>https://www.spotdraft.com/reports/5-clm-metrics-legal-teams-should-measure</loc>
-    <lastmod>2025-10-13</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/reports/five-clm-metrics-that-heads-of-legal-are-measuring</loc>
@@ -3571,7 +3575,7 @@
   </url>
   <url>
     <loc>https://www.spotdraft.com/eu/Contract-Intelligence-That-Scales-With-Your-Business</loc>
-    <lastmod>2026-03-11</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/compare/spotdraft-vs-luminance</loc>
@@ -3699,207 +3703,207 @@
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/legal-operations</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/third-party-paper</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/dispute-resolution-clause</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/boilerplate-clauses-meaning-examples-and-why-they-matter</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/severability-clause</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/evergreen-clause</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/termination-for-convenience-vs-cause-definition-differences-and-why-it-matters</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/limitation-of-liability</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/Indemnification-clause</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/force-majeure</loc>
-    <lastmod>2026-04-08</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/data-processing-agreement</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/service-level-agreement</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/non-disclosure-agreement</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/statement-of-work-sow-definition-meaning-key-clauses-and-examples</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/master-service-agreement</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/public-key-infrastructure</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/contract-intelligence</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/contract-intake</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/contract-data-extraction</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/contract-automation</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/contract-approval-workflows</loc>
-    <lastmod>2026-04-08</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/contract-approval-process</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/contract-analytics</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/contract-abstraction</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/clause-library</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/centralized-contract-repository</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/assignment-clause</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/ai-hallucinations</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/ai-contract-review</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/ai-contract-drafting</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/agentic-ai-legal</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/wet-signature</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/eidas-regulation</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/esign-act</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/signatory-authority</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/certificate-of-completion</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/clickwrap-agreement</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/audit-trail</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/electronic-signature</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/digital-signature</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/smart-contracts</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/contract-standardization</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/contract-renewal-management</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/contract-turnaround-time</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/approval-workflow</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/version-control</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/obligation-management</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/redlining</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/contract-metadata</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/contract-playbook</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/glossary/contract-lifecycle-management</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-05-07</lastmod>
   </url>
   <url>
     <loc>https://www.spotdraft.com/lp/contract-management-core-us</loc>
